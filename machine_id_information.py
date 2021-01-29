@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# This module aims at look forward different ids about the machines, and write the machine id into files.
+# This module aims at look forward different ids about the machines which from the scv file called machine_id, and write the machine id into files.
 import gzip
 
 
