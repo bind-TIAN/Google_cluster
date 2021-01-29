@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# This module aims at look forward different ids about the machines, and write the machine id into files.
 import gzip
 
 
