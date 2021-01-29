@@ -1,4 +1,4 @@
 # Google_cluster
 关于绘制热力图的步骤说明：
-new_i（i：0~29）文件有四列，其文件的生成是通过遍历task_events众多文件，将其中的job_id和task_index共同作为每个任务的ID，当做字典的key，并遍历task_events统计每个key的submit和fail个数。
+new_i（i：0~29）文件有四列，其文件的生成是通过遍历task_events众多文件，将其中的job_id和task_index共同作为每个任务的ID，当做字典的key，并遍历task_events统计每个key的submit和fail个数。文件的每一列分别有job_id，任务的index，以及属于每个key的提交和失败的个数，所有这些信息都是从task_event众多文件中得出的。
 
