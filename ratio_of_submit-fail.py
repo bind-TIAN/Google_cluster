@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# Statistics on the first day, the ratio of submit-fail belonging to each machine_id in the first 500 files of task_event.
 import gzip
 
 
