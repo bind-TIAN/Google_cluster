@@ -3,3 +3,5 @@
 2、按照code中的write open以及read open中的内容对文件名进行修改和相应文件的个数的扩充（有的文件有二十九个，分别命名到指定文件夹下）即可以得出绘制的热力图。
 
 这里是关于构建task_schedule_time_with_timestamp.txt文件，读取task_events众多文件，得出需要用的由job_id和task_index共同组成的表征每个任务ID的字段，相应的调度时间，调度类和优先级。
+
+其他的code是调度类和调度时间、优先级和调度时间数据和绘图文件。
