@@ -12,6 +12,6 @@
 Figure_ratio_with_priority.png：优先级与任务类型事件比率堆积直方图。
 Figure_schedule_time_with_eventtypes.png：调度类与任务事件比率堆积直方图。
 Figure_tasks_with_schedule_classes.png：调度时间与任务个数Log-log图。
-Figure_time_and_machine_numbers.png：时间与事件类型折线图。
+Figure_time_and_machine_numbers.png：时间与事件类型折线图（time_numbers-events.py）。
 figure-schedule_class_submit_evict_fail_finish_kill.png：调度类与任务事件类型比率堆积柱状图。
 heat_map_costruct.png：天数与机器个数热力图。
