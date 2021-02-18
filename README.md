@@ -5,3 +5,10 @@
 这里是关于构建task_schedule_time_with_timestamp.txt文件，读取task_events众多文件，得出需要用的由job_id和task_index共同组成的表征每个任务ID的字段，相应的调度时间，调度类和优先级。
 
 其他的code是调度类和调度时间、优先级和调度时间数据和绘图文件。
+
+Figure_ratio_with_priority.png：优先级与任务类型事件比率堆积直方图。
+Figure_schedule_time_with_eventtypes.png：调度类与任务事件比率堆积直方图。
+Figure_tasks_with_schedule_classes.png：调度时间与任务个数Log-log图。
+Figure_time_and_machine_numbers.png：时间与事件类型折线图。
+figure-schedule_class_submit_evict_fail_finish_kill.png：调度类与任务事件类型比率堆积柱状图。
+heat_map_costruct.png：天数与机器个数热力图。
